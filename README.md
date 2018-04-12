@@ -1,2 +1,2 @@
 # CompletableFuture 
- 	This application containes the basic examples of completablefuture.
+ 	This application contains the basic examples of completablefuture.
